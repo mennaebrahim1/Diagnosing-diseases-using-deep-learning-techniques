@@ -2,18 +2,6 @@
 
 <p id="description">implementing medical bots in Arabic faces several challenges including the language’s morphological composition the diversity of dialects and the need for an appropriate and large enough corpus in the medical domain. To address this gap this document introduces the largest Arabic Healthcare Q &amp;A dataset called MAQA consisting of over 430000 questions distributed across 20 medical specializations.</p>
 
-<h2>🚀 Demo</h2>
-
-<h2>Project Screenshots:</h2>
-
-<img src="https://paste.pics/7a94a3187077fec55df8c9b1f6e36d7e" alt="project-screenshot" width="20" height="30/">
-
-<img src="https://paste.pics/99d32fa754e3eb4fadbeb90d6292f8c6" alt="project-screenshot" width="20" height="30/">
-
-<img src="https://paste.pics/3335b910114e712b5b1e5538621cfe42" alt="project-screenshot" width="20" height="30/">
-
-<img src="https://paste.pics/R9ULE" alt="project-screenshot" width="20" height="30/">
-
   
   
 <h2>🧐 Features</h2>
