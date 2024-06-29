@@ -12,7 +12,7 @@
 
 <img src="https://paste.pics/3335b910114e712b5b1e5538621cfe42" alt="project-screenshot" width="20" height="30/">
 
-<img src="https://paste.pics/6174e84842c5b6796db4133a1552e853" alt="project-screenshot" width="20" height="30/">
+<img src="https://paste.pics/R9ULE" alt="project-screenshot" width="20" height="30/">
 
   
   
@@ -154,3 +154,4 @@ Technologies used in the project:
 *   Flutter
 *   Dart
 *   Flask
+  
